@@ -1,0 +1,4 @@
+.env
+frontend/.streamlit/secrets.toml
+backend/.venv/
+__pycache__/
